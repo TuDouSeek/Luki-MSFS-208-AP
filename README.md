@@ -40,7 +40,7 @@
 | EC11_DN-UP | A4         |
 | EC11_CRS2  | A5         |
 
-![/img/image.png](image.png)
+![/img/image.png](/img/image.png)
 
 当前接线图只是推荐，具体可以根据自己的实际情况进行修改。 
 
